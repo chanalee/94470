@@ -10,9 +10,10 @@ Hello! My name is Chanaradee Leelamanthep, and I'm referred to by she/her/hers p
 
 As for my background, I have not formally taken a data visualization class, but I have taken HCI and Statistics classes that required me to create different visualizations and graphs. In HCI classes, I explored different ways to present information, whether that is by choosing specific graphs to represent data, organizing a dashboard to summarize a finding, or adding interaction to visualizations on Figma. As for my statistics classes, most of the graphs that I interacted with are code-generated, specifically R and Python. 
 
+<img align="right" src="Images/me.jpg" width = "400">
+
 In my free time, I love to bake, watch dramas, and explore the city! 
 
-<img align="right" src="Images/me.jpg" width = "400">
 
 ## What I Hope to Learn
 
