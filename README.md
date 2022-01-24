@@ -1,5 +1,6 @@
 # 94470
-Portfolio for 94470: Telling Stories with Data
+
+This is my public portfolio for Telling Stories with Data class (94470) @ CMU!
 
 [https://chanalee.github.io/94470/](https://chanalee.github.io/94470/)
 
