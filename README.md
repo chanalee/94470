@@ -17,13 +17,15 @@ I hope to become a better story teller when presenting data, whether that is thr
 
 # Portfolio
 
-## Assignment
+Here, I included some work from the class, including relevant data visualization critiques, workshop materials and information related to my final project!
+
+## Assignments
 
 [Data Visualization #1](/data-vis-1.md)
 
 [Critique by Design](/critique-by-design.md)
 
-## Sketch
+## Sketches
 
 [Crafting for Clarity](/crafting-for-clarity.md)
 
