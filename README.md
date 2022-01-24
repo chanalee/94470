@@ -7,7 +7,7 @@ Portfolio for 94470: Telling Stories with Data
 
 Hello! My name is Chanaradee Leelamanthep, and I'm referred to by 'she/her/hers' pronouns. A little bit about myself, ...
 
-![Chanaradee](Images/me.jpg)
+![Chanaradee](Images/me.jpg|width=400)
 
 ## What I Hope to Learn
 
