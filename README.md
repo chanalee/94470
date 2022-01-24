@@ -12,7 +12,7 @@ As for my background, I have not formally taken a data visualization class, but 
 
 In my free time, I love to bake, watch dramas, and explore the city! 
 
-![Chanaradee](Images/me.jpg)
+<img src = "Images/me.jpg", width = "400"/>
 
 ## What I Hope to Learn
 
