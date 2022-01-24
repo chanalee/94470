@@ -1,9 +1,5 @@
 # 94470
 
-.img {
-float: right;
-}
-
 This is my public portfolio for Telling Stories with Data class (94470) @ CMU!
 
 [https://chanalee.github.io/94470/](https://chanalee.github.io/94470/)
@@ -16,9 +12,7 @@ As for my background, I have not formally taken a data visualization class, but 
 
 In my free time, I love to bake, watch dramas, and explore the city! 
 
-<div class='img'>
-  <img src = "Images/me.jpg" width = "400"/>
-</div>
+<img align="right" src="Images/me.jpg" width = "400">
 
 ## What I Hope to Learn
 
