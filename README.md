@@ -33,19 +33,17 @@ I hope to become a better story teller when presenting data, whether that is thr
 
 ## Final Project
 
-[Part One]
+[Part One](/fp-part1.md)
 
-[Part Two]
+[Part Two](/fp-part2.md)
 
-[Part Three]
+[Part Three](/fp-part3.md)
 
 
-
+# Thank you! 
 
 Here's a cute malamute
 
 ![Dog](Images/malamute.jpeg)
-
-[Link to other page](/page2.md)
 
 
