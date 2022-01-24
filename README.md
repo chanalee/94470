@@ -6,7 +6,7 @@ This is my public portfolio for Telling Stories with Data class (94470) @ CMU!
 
 # About Me
 
-<img align="right" src="Images/me.jpg" width = "400">
+<img align="right" src="Images/me.jpg" width = "350">
 
 Hello! My name is Chanaradee Leelamanthep, and I'm referred to by she/her/hers pronouns. A little bit about myself, I am currently a junior studying Information Systems (concentration in Human-Computer Interaction) with a double in Statistics and Machine Learning. To quickly summarize my area of interest, I enjoy analyzing data and presenting my findings to others so that they can turn meaningful findings into actionable insights. I want to use data and analytics to help people make better decisions! 
 
