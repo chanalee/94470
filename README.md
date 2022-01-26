@@ -52,4 +52,6 @@ Here's a cute malamute
 
 ![Dog](Images/malamute.jpeg)
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529823"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
