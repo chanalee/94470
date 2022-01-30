@@ -10,7 +10,7 @@ Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-
 
 ## Part 2
 
-### Grid of line charts
+### Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8565011"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
