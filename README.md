@@ -29,6 +29,8 @@ Here, I included some work from the class, including relevant data visualization
 
 [Critique by Design](/critique-by-design.md)
 
+[Data Visualization #2](/data-vis-2.md)
+
 ## Sketches
 
 [Crafting for Clarity](/crafting-for-clarity.md)
