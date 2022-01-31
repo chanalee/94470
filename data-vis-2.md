@@ -15,3 +15,11 @@ Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-
 <div class="flourish-embed flourish-chart" data-src="visualisation/8565011"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### The Third Data Visualization
+
+#### Line Chart
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8566874"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Race Chart
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8566874"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
