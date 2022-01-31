@@ -58,3 +58,8 @@ There are a lot of things that I want to improve for the graph, however, current
 - Grouping data together in the ALL graph depending on region and having separate lines for different countries when region filter is selected
 - Choosing color that better fits the graph
 - Reducing the number of tickers
+
+## Final Thoughts on Different Methods of Visualization 
+
+Without a doubt, you choose different visualizations depending on what information you want to showcase. In those three graphs, they were all forms of a line chart: the grid having multiple graphs within one visualization, the line chart having one graph with multiple lines, and the race chart having two graphs that display similar information. While the grid chart intends to compare different lines, the latter options do a better job since you can see the comparisons on the same graph instead of mentally mapping where each one would go. That said, grid charts would be better for users who want to see an overall trend and look at each data separately since you can see more details within each graph. The third graph is essentially the second graph with the addition of a rank feature. Since the debt-to-GDP ratio can be compared, it will be interesting to see which countries are in the lead or are under-developing without seeing the raw values. However, the third graph had more information compared to the second graph, which meant readers will take longer to digest everything. All in all, there are benefits and drawbacks of choosing each graph; it depends on what pieces of information you want to highlight.
+
