@@ -65,12 +65,19 @@ After that, I started transferring these drawings into Figma. Below are the four
 
 #### 1. Bar chart
 
+![Bar Chart](Images/food-net-diff.png)
+
 #### 2. Stacked chart
+
+![Radar Chart](Images/food-stacked.png)
 
 #### 3. Line chart
 
+![Radar Chart](Images/food-line.png)
+
 #### 4. 100% Stacked chart
 
+![Radar Chart](Images/food-100.png)
 
 
 
