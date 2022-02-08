@@ -110,6 +110,8 @@ IK thought that nothing is confusing in this graph. However, she commented on th
 
 ZW pointed out that the caption of the net difference might be better as a subtitle. At the same time, he said to make sure to be descriptive and informative because I "should not repeat the information when creating a new text box." Because of how large the gap is, the audience is immediately drawn to that so putting it as a text next to it is somewhat useless. 
 
+Another minor note that ZW had is the gridline on the row side is unnecessary to see the trend. Because it does not add value, there is no need to include it. 
+
 ZW mentioned how he like the fact that the legend extends from the line and that the line and words are in the same color. "It's as if I just continued reading the line to read the titles of the key. This makes it easier for me to see."
 
 All in all, both YK and ZW like this visualization the best. They agree that this visualization is the most straightforward and delivers the point the best. At the same time, it is simple but not too simple that it looks empty. 
@@ -119,6 +121,16 @@ All in all, both YK and ZW like this visualization the best. They agree that thi
 Based on the feedback, I decided to go with V3 for my final visualization because it seems to match the criteria of a good visualization per the critique method. It delivers the point, tells a story, and looks neat. 
 
 Moving forward, I took some of the feedback that I received and incorporated them into my final product.
+
+I made the following changes:
+
+- Change the color scheme
+- Change the wording of the titles
+- Add another reference line to tell a story about COVID
+- Adjust the y-axis title position
+- Move the text to the subtitle place instead 
+- Take out grid lines
+- Add source
 
 ## Step 5
 
