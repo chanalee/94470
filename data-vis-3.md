@@ -58,8 +58,8 @@ All things considered, this graph would most likely not draw audience into the d
 
 I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. 
 
-<img align="left" src="Images/draw1.jpg" width = "480">
-<img align="right" src="Images/draw2.jpg" width = "480">
+![Draw 1](Images/draw1.jpg)
+![Draw 2](Images/draw2.jpg)
 
 After that, I started transferring these drawings into Figma. Below are the four ideas that I focused on: 
 
