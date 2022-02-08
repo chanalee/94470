@@ -27,9 +27,9 @@ Here, I included some work from the class, including relevant data visualization
 
 [Data Visualization #1](/data-vis-1.md)
 
-[Critique by Design](/critique-by-design.md)
-
 [Data Visualization #2](/data-vis-2.md)
+
+[Assignment 3 & 4: Critique by Design](/data-vis-3.md)
 
 ## Sketches
 
