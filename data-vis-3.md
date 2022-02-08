@@ -83,6 +83,8 @@ This line chart is probably the most straightforward way I can imagine this grap
 
 I was curious about how the stacked chart would turn out and whether this would help see the trends of how the food at home versus food away from home changes because now you see the values in percentage and not raw values. That way, you are comparing these numbers to the total sales and help users gauge a better idea of the ratio. After seeing the graph, I feel like it is hard to read the graph and make the comparison still. A better way might be rotating the axis so that the percentage is on the x-axis and the year on the y-axis. The reason why I believe this would help is primarily that comparing percentages vertically and reading information backward is difficult.
 
+# 
+
 ## Step 4: Testing the solution
 
 Now that I have some idea about what I want my graphs to look like, I interviewed two people to test out my solution. For anonymity purposes, I will refer to my interviewees as YK and ZW. I expored 1 and 3 more deeply because I thought those two fit the data visualization effectiveness profile the best. 
