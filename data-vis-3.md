@@ -4,6 +4,8 @@
 
 I decided to use Economic Research Service's visualization on food expenditure series to complete this assignment. [Source](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=99193)
 
+The reason why 
+
 ![ERS Total Food](Images/usda-food.png)
 
 To briefly summarize, this graph shows the total food sales and breaks it down to food at home and food away from home from January 2019 to June 2020. The data from this graph can be found by going to this [link](https://www.ers.usda.gov/data-products/food-expenditure-series/) and clicking the "Monthly sales of food, with taxes and tips, for all purchases".
@@ -54,8 +56,8 @@ All things considered, this graph would most likely not draw audience into the d
 
 I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. 
 
-<img align="left" src="Images/draw1.jpg" width = "350">
-<img align="right" src="Images/draw2.jpg" width = "350">
+<img align="left" src="Images/draw1.jpg" width = "450">
+<img align="right" src="Images/draw2.jpg" width = "450">
 
 After that, I started transferring these drawings into Figma. Below are the four ideas that I focused on: 
 
