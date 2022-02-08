@@ -60,25 +60,28 @@ First, I started by drawing a few ideas on paper. This is a really rough sketch 
 
 I am interested in this graph because I thought highlighting the net sales of food between the categories would be interesting because it seems to change a lot during the COVID period. Originally it seems that the difference between food away from home and food at home is not too large although food away from home sales is slightly higher. However, from March 2020, there seems to be a huge switch. From all four visualizations, I like this one the best because of how aesthetic looks and how the information comes across easily. Some things that I wasn't sure about is whether this graph is intuitive to other people and whether the titles are clear. 
 
-![Bar Chart](Images/food-net-diff.png)
+<img align="right" src="Images/food-net-diff.png" width = "450">
+
 
 ### 2. Stacked chart
 
 The reason that I used this visualization is to restructure the information that is presented in the original graph. This way, users will still be able to see the total food sales information without doing mental math. I also decided to only highlight certain points, in this case, just April 2019 and April 2020. I got this inspiration from the original graph, where they discussed changes in annual sales spending. Personally, I think this is significantly better than the original graph, considering that it delivers the same information. However, there are too many things going on for a user to quickly grasp this is less than a minute. 
 
-![Stacked Chart](Images/food-stacked.png)
+<img align="right" src="Images/food-stacked.png" width = "450">
+
 
 ### 3. Line chart
 
 This line chart is probably the most straightforward way I can imagine this graph. I highlighted the areas between the two lines so that it would be even more obvious. I believe that having the shading inside would bring more attention to the audience's eyes. I also decided to include an additional caption to highlight the difference between the two lines to emphasize my point. This line chart would probably be my second favorite just because of the simplicity but also the effectiveness of the graph. However, one thing I was uncertain about is how I should mark the dates. Should I just mark the year change, or should I mark something else and craft a different story? 
 
-![Line Chart](Images/food-line.png)
+<img align="right" src="Images/food-line.png" width = "450">
+
 
 ### 4. 100% Stacked chart
 
 I was curious about how the stacked chart would turn out and whether this would help see the trends of how the food at home versus food away from home changes because now you see the values in percentage and not raw values. That way, you are comparing these numbers to the total sales and help users gauge a better idea of the ratio. After seeing the graph, I feel like it is hard to read the graph and make the comparison still. A better way might be rotating the axis so that the percentage is on the x-axis and the year on the y-axis. The reason why I believe this would help is primarily that comparing percentages vertically and reading information backward is difficult.
 
-![100% Stacked Chart](Images/food-100.png)
+<img align="right" src="Images/food-100.png" width = "450">
 
 ## Step 4: Testing the solution
 
