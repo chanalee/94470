@@ -50,7 +50,26 @@ All things considered, this graph would most likely not draw audience into the d
 - I would take out the arrows on the year.
 - I would rearrange the graphed values, lines, and legend so that they are closer to one another.
 
-## Step 3
+## Step 3: Wireframing a solution
+
+I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. 
+
+<img align="left" src="Images/draw1.jpg" width = "275">
+<img align="right" src="Images/draw2.jpg" width = "275">
+
+After that, I started transferring these drawings into Figma. Below are the four ideas that I focused on: 
+
+#### 1. Bar chart
+
+#### 2. Stacked chart
+
+#### 3. Line chart
+
+#### 4. 100% Stacked chart
+
+
+
+
 
 ## Step 4
 
