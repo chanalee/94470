@@ -1,5 +1,40 @@
 # Assignment 3 + 4: Critique by Design
 
+## Step 1: finding a data visualization
+
+I decided to use Economic Research Service's visualization on food expenditure series to complete this assignment. [Source](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=99193)
+
+![ERS Total Food](Images/usda-food.png)
+
+To briefly summarize, this graph shows the total food sales and breaks it down to food at home and food away from home from January 2019 to June 2020.
+
+## Step 2: critiquing the data visualization
+
+To critique this visualization, we will be using Stephen Few's Data Visualization Effectiveness Profile. The seven criteria include usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. Below is an explanation of how I ranked each category. 
+
+![Radar Chart](Images/radar.png)
+
+### Usefulness
+
+### Completeness
+
+### Perceptibility
+
+### Truthfulness
+
+### Intuitiveness
+
+### Aesthetics
+
+### Engagement
+
+
+## Step 3
+
+## Step 4
+
+## Step 5
+
 <div class='tableauPlaceholder' id='viz1644287959234' style='position: relative'><object class='tableauViz'  style='display:none;'>
   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
   <param name='embed_code_version' value='3' /> 
