@@ -88,31 +88,37 @@ Now that I have some idea about what I want my graphs to look like, I interviewe
 
 ### 1. 
 
-Both YK and ZW thought that the graph looks really clean and aestheticly pleasing. They agreed that using colors to help point out the bars on the FAH side makes the information pop. They also liked the division line between 2019 and 2020. 
+Both YK and ZW thought that the graph looks really clean and aesthetically pleasing. They agreed that using colors to help point out the bars on the FAH side makes the information pop. They also liked the division line between 2019 and 2020. 
 
 YK said, "it took me a moment to understand what the net difference in sales is. It might be because I am tired, but it doesn't come to me right away. After I thought it through, I got the concept."
 
-YK also suggested that I rearrange some of titles. For instance, putting FAFH and FAH to the right makes it seem as if there is a different axis to look at. Instead, she recommended that I put it closer to the top of each side.
+YK also suggested that I rearrange some of the titles. For instance, putting FAFH and FAH to the right makes it seem as if there is a different axis to look at. Instead, she recommended that I put it closer to the top of each side.
 
-YK was also confused by the term "net difference" and the label because she thought of net loss is negative. She suggested that I simplify it and say difference instead. 
+YK was also confused by the term "net difference" and the label because she thought net loss is negative. She suggested that I simplify it and say difference instead. ZW said something similar and suggested that I put down the word sales such as "net difference of sales" to make it more obvious what I am comparing. He mentioned that even though I already included this piece of information in the title, it does not hurt to reiterate such a strong point. 
 
 ZW said that "it is easy to interpret, but it could be even easier". He recommended that I change the y-axis title to just be the equation FAFH - FAH because that is the definition of difference. 
 
-On top of that, ZW mentioned that altering the y-axis eliminates the need to write FAFH and FAH on the right hand side. 
+On top of that, ZW mentioned that altering the y-axis eliminates the need to write FAFH and FAH on the right-hand side. 
 
 Another recommendation that ZW provided is to label when COVID took place or an important date. 
 
 ### 3. 
 
-A question that I asked both of my interviewees is whether having the shaded areas between the line helps the audience see the information better. Both of them agreed, in which ZW commented that the shaded areas "help bring your attention towards the big gaps".
+A question that I asked both of my interviewees is whether having the shaded areas between the line helps the audience see the information better. Both of them agreed, in which ZW commented that the shaded areas "help bring your attention towards the big gaps" and IK stated that the swap was done nicely. 
 
-IK thought that there is nothing confusing in this graph. However, she commented on things that she thought would help improve the visualization. For instance, I should consider changing the frequency of the date to month instead of quarter because there is not a lot going on anyways. She said, "I am lazy, it doesn’t say the month directly so I have to think about it more."
+IK thought that nothing is confusing in this graph. However, she commented on things that she thought would help improve the visualization. For instance, I should consider changing the frequency of the date to month instead of a quarter because there is not a lot going on anyways. She said, "I am lazy, it doesn’t say the month directly so I have to think about it more."
 
-ZW pointed out that the caption of the net difference might be better as a subtitle. At the same time, he said to make sure to be descriptive and informative because I "should not repeat the information when creating a new text box."  
+ZW pointed out that the caption of the net difference might be better as a subtitle. At the same time, he said to make sure to be descriptive and informative because I "should not repeat the information when creating a new text box." Because of how large the gap is, the audience is immediately drawn to that so putting it as a text next to it is somewhat useless. 
 
 ZW mentioned how he like the fact that the legend extends from the line and that the line and words are in the same color. "It's as if I just continued reading the line to read the titles of the key. This makes it easier for me to see."
 
 All in all, both YK and ZW like this visualization the best. They agree that this visualization is the most straightforward and delivers the point the best. At the same time, it is simple but not too simple that it looks empty. 
+
+### Overall thoughts
+
+Based on the feedback, I decided to go with V3 for my final visualization because it seems to match the criteria of a good visualization per the critique method. It delivers the point, tells a story, and looks neat. 
+
+Moving forward, I took some of the feedback that I received and incorporated them into my final product.
 
 ## Step 5
 
