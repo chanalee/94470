@@ -6,7 +6,9 @@ I decided to use Economic Research Service's visualization on food expenditure s
 
 The reason why I chose this visualization is that I am interested in seeing some data on COVID to learn more about how the trends of a particular subject change as a result. After I came across this visualization, I knew I wanted to do it primarily because I am also interested in learning about food sales. To be honest, I  considered other graphics that are related to food such as grocery sales breakdown or sales of food consumption by age, but those ones did not have a formal database. Considering my interests and the availability of data, I thought that this visualization would be the best for me. Additionally, this visualization has a lot of space for improvement! 
 
-![ERS Total Food](Images/usda-food.png)
+<p align="center">
+  <img src="Images/usda-food.png" width = "400">
+</p>
 
 To briefly summarize, this graph shows the total food sales and breaks it down to food at home and food away from home from January 2019 to June 2020. The data from this graph can be found by going to this [link](https://www.ers.usda.gov/data-products/food-expenditure-series/) and clicking the "Monthly sales of food, with taxes and tips, for all purchases".
 
