@@ -14,7 +14,7 @@ To briefly summarize, this graph shows the total food sales and breaks it down t
 
 To critique this visualization, we will be using Stephen Few's Data Visualization Effectiveness Profile. The seven criteria include usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. Below is a chart to describe what the scores of a good chart is versus what the ERS graph score
 
-![Radar Chart](Images/radar.png)
+<img align="right" src="Images/radar.png" width = "330">
 
 ### Usefulness
 
