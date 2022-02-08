@@ -56,7 +56,9 @@ All things considered, this graph would most likely not draw audience into the d
 
 First, I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. Then I transferred these drawings into Figma. Below are the four ideas that I focused on: 
 
-<img align="right" src="Images/food-net-diff.png" width = "330">
+<p align="center">
+  <img src="Images/food-net-diff.png" width = "30">
+</p>
 
 ### 1. Bar chart
 
