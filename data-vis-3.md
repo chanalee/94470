@@ -62,7 +62,7 @@ First, I started by drawing a few ideas on paper. This is a really rough sketch 
 
 I am interested in this graph because I thought highlighting the net sales of food between the categories would be interesting because it seems to change a lot during the COVID period. Originally it seems that the difference between food away from home and food at home is not too large although food away from home sales is slightly higher. However, from March 2020, there seems to be a huge switch. From all four visualizations, I like this one the best because of how aesthetic looks and how the information comes across easily. Some things that I wasn't sure about is whether this graph is intuitive to other people and whether the titles are clear. 
 
-<img align="right" src="Images/food-stacked.png" width = "350">
+<img align="left" src="Images/food-stacked.png" width = "350">
 
 
 ### 2. Stacked chart
@@ -76,7 +76,7 @@ The reason that I used this visualization is to restructure the information that
 
 This line chart is probably the most straightforward way I can imagine this graph. I highlighted the areas between the two lines so that it would be even more obvious. I believe that having the shading inside would bring more attention to the audience's eyes. I also decided to include an additional caption to highlight the difference between the two lines to emphasize my point. This line chart would probably be my second favorite just because of the simplicity but also the effectiveness of the graph. However, one thing I was uncertain about is how I should mark the dates. Should I just mark the year change, or should I mark something else and craft a different story? 
 
-<img align="right" src="Images/food-100.png" width = "350">
+<img align="left" src="Images/food-100.png" width = "350">
 
 
 ### 4. 100% Stacked chart
