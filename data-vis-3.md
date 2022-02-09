@@ -48,6 +48,7 @@ All things considered, this graph would most likely not draw audience into the d
 
 ### What I would do differently
 
+Here are some points that need to be addressed (more can be found in the google form):
 - I would change the color scheme
 - I would change the type of visualization used. I might even make two visualizations instead (one to present food at home versus food away from home and another to present total food sales).
 - I would omit the number labels and only focus on important points (perhaps the difference from April 2019 to April 2020).
