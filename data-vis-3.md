@@ -59,6 +59,10 @@ Here are some points that need to be addressed (more can be found in the google 
 
 First, I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. Then I transferred these drawings into Figma. Below are the four ideas that I focused on (note: the data presentation is not accurate and is just to give a rough idea of what the graphs will like): 
 
+<p align="center">
+  <img src="Images/draw.png" width = "600">
+</p>
+
 ### 1. Bar chart
 
 I am interested in this graph because I thought highlighting the net sales of food between the categories would be interesting because it seems to change a lot during the COVID period. Originally it seems that the difference between food away from home and food at home is not too large although food away from home sales is slightly higher. However, from March 2020, there seems to be a huge switch. From all four visualizations, I like this one the best because of how aesthetic looks and how the information comes across easily. Some things that I wasn't sure about is whether this graph is intuitive to other people and whether the titles are clear. 
