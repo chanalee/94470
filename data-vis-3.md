@@ -124,11 +124,21 @@ ZW mentioned how he like the fact that the legend extends from the line and that
 
 All in all, both YK and ZW like this visualization the best. They agree that this visualization is the most straightforward and delivers the point the best. At the same time, it is simple but not too simple that it looks empty. 
 
+### Ranking the net sales bar chart and the sales line chart
+
+We will now revisit the data critique method and evaluate which of the two graphs performs better in the respective categories. 
+
+- Usefulness: **line chart** because users can understand information quicker and the comparisons and absolute numbers are shown
+- Completeness: **line chart** because the bar chart only shows the difference between the two values. It does not tell the full story of how the overall trend is
+- Perceptibility: **bar chart** because the difference between the two categories are more clear. The information is also emphasized with the use of colors
+- Truthfulness: Because this is also a prototype and a rough estimate of different curves, this does not matter.
+- Intuitiveness: **line chart** because the bar chart using sales difference is more difficult to understand. People understand the face value better than second calculations.
+- Aesthetics: **bar chart** because of the good balance between content and white space.
+- Engagement: **line chart** because considering all of the above, the line chart delivers the point, tells a story, and still looks aesthetically appealing.
+
 ### Overall thoughts
 
-Based on the feedback, I decided to go with V3 for my final visualization because it seems to match the criteria of a good visualization per the critique method. It delivers the point, tells a story, and looks neat. 
-
-Moving forward, I took some of the feedback that I received and incorporated them into my final product.
+Based on the feedback and the critique, I decided to go with V3 for my final visualization because it seems to match the criteria of a good visualization per the critique method. Moving forward, I took some of the feedback that I received and incorporated them into my final product.
 
 I made the following changes:
 
