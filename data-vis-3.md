@@ -1,6 +1,6 @@
 # Assignment 3 + 4: Critique by Design
 
-## Step 1: finding a data visualization
+## Step 1: Finding a data visualization
 
 I decided to use Economic Research Service's visualization on food expenditure series to complete this assignment. [Source](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=99193)
 
@@ -12,7 +12,7 @@ The reason why I chose this visualization is that I am interested in seeing some
 
 To briefly summarize, this graph shows the total food sales and breaks it down to food at home and food away from home from January 2019 to June 2020. The data from this graph can be found by going to this [link](https://www.ers.usda.gov/data-products/food-expenditure-series/) and clicking the "Monthly sales of food, with taxes and tips, for all purchases".
 
-## Step 2: critiquing the data visualization
+## Step 2: Critiquing the data visualization
 
 To critique this visualization, we will be using Stephen Few's Data Visualization Effectiveness Profile. The seven criteria include usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. Below is a chart to describe what the scores of a good chart is versus what the ERS graph score
 
