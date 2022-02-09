@@ -143,7 +143,7 @@ I made the following changes:
 Here is the final prototype, and in the next step, you will see my final visualization on Tableau! 
 
 <p align="center">
-  <img src="Images/final.png" width = "400">
+  <img src="Images/final.png" width = "600">
 </p>
 
 ## Step 5: 
@@ -179,7 +179,7 @@ While this is not everything I wanted, I tried my best to get the final visualiz
   <img src="Images/area.png" width = "400">
 </p>
 
-I had to make a trade-off decision considering the previous graph and this image. Do I want to get the type of spending filled in, or do I prefer a less saturated graph? Obviously, being able to change the opacity of the area part would have been the most optimal choice, but between the two options I could choose from, I thought that doing a simple line graph was the best. It still communicates the same problem with less cognitive burden for the reader. Additionally, with the width size that I used, the lines are easily spotted and users can still interpret the white space as the gap. 
+I had to make a trade-off decision considering the previous graph and this image. Do I want to get the type of spending filled in, or do I prefer a less saturated graph? Obviously, being able to change the opacity of the area part would have been the most optimal choice, but between the two options I could choose from, I thought that doing a simple line graph was the best. I went back to ask my interviewees, and they agreed that the white space is sufficient. It still communicates the same problem with less cognitive burden for the reader. Additionally, with the width size that I used for the lines are easily spotted, and users can still interpret the white space as the gap. 
 
 
 
