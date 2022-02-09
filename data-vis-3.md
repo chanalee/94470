@@ -140,7 +140,13 @@ I made the following changes:
 - Take out grid lines
 - Add source
 
-## Step 5
+Here is the final prototype, and in the next step, you will see my final visualization on Tableau! 
+
+<p align="center">
+  <img src="Images/final.png" width = "400">
+</p>
+
+## Step 5: 
 
 <div class='tableauPlaceholder' id='viz1644287959234' style='position: relative'><object class='tableauViz'  style='display:none;'>
   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -166,3 +172,14 @@ I made the following changes:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+While this is not everything I wanted, I tried my best to get the final visualization to as similar as my final prototype. I tried different tactics to get the shading in the two lines. Many of the tutorials that I used involved having the opacity be 100%, which meant I could not achieve the color scheme that I wanted. Below is a photo of how it looks. 
+
+<p align="center">
+  <img src="Images/area.png" width = "400">
+</p>
+
+I had to make a trade-off decision considering the previous graph and this image. Do I want to get the type of spending filled in, or do I prefer a less saturated graph? Obviously, being able to change the opacity of the area part would have been the most optimal choice, but between the two options I could choose from, I thought that doing a simple line graph was the best. It still communicates the same problem with less cognitive burden for the reader. Additionally, with the width size that I used, the lines are easily spotted and users can still interpret the white space as the gap. 
+
+
+
