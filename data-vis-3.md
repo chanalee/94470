@@ -184,6 +184,8 @@ Here is the final prototype, and in the next step, you will see my final visuali
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+### Final comments
+
 While this is not everything I wanted, I tried my best to get the final visualization to as similar as my final prototype. I tried different tactics to get the shading in the two lines. Many of the tutorials that I used involved having the opacity be 100%, which meant I could not achieve the color scheme that I wanted. Below is a photo of how it looks. 
 
 <p align="center">
@@ -192,5 +194,10 @@ While this is not everything I wanted, I tried my best to get the final visualiz
 
 I had to make a trade-off decision considering the previous graph and this image. Do I want to get the type of spending filled in, or do I prefer a less saturated graph? Obviously, being able to change the opacity of the area part would have been the most optimal choice, but between the two options I could choose from, I thought that doing a simple line graph was the best. I went back to ask my interviewees, and they agreed that the white space is sufficient. It still communicates the same problem with less cognitive burden for the reader. Additionally, with the width size that I used for the lines are easily spotted, and users can still interpret the white space as the gap. 
 
+Overall, this is a huge improvement from the original graph and the other prototypes. The use of tiffany blue and orange makes a good contrast, but it is still easy on the eyes. On top of that, these colors have a neutral definition associated with it, which works well with this visualization. 
+
+The title and subtitle inform the readers what to be on the look out for, and the graph and the titles relate to one another. This is definitely possible because of the use of references, such as greying out information in 2020 and marking the red line on March 11, 2020. 
+
+While there are fewer things going on in this graph, the story is better coveyed. In this case, less is more! 
 
 
