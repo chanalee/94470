@@ -56,7 +56,7 @@ All things considered, this graph would most likely not draw audience into the d
 
 ## Step 3: Wireframing a solution
 
-First, I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. Then I transferred these drawings into Figma. Below are the four ideas that I focused on: 
+First, I started by drawing a few ideas on paper. This is a really rough sketch to get a sense of what I want to make when I actually do wireframe it. Then I transferred these drawings into Figma. Below are the four ideas that I focused on (note: the data presentation is not accurate and is just to give a rough idea of what the graphs will like): 
 
 ### 1. Bar chart
 
