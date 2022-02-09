@@ -146,7 +146,7 @@ Here is the final prototype, and in the next step, you will see my final visuali
   <img src="Images/final.png" width = "600">
 </p>
 
-## Step 5: 
+## Step 5: Building my solution
 
 <div class='tableauPlaceholder' id='viz1644287959234' style='position: relative'><object class='tableauViz'  style='display:none;'>
   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
