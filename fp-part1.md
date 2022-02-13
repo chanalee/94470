@@ -1,3 +1,9 @@
 # Final Project Part 1
 
-![Image of Coming Soon](Images/coming-soon.jpg)
+## Outline
+
+## Initial Sketches
+
+## Data
+
+## Method and Medium
