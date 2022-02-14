@@ -13,7 +13,9 @@ High-level summary: People are underestimating the impact of getting a good nigh
 
 ## Initial Sketches
 
+Here are some sketches of what I am planning to do. Notice that there is a number next to each graph - this number corresponds to which section the graph belongs to. These sketches are subject to change depending on the information found and flow of story. 
 
+![Sketch](Images/sketch.jpg)
 
 ## Data
 
