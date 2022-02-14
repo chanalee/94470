@@ -4,13 +4,12 @@
 
 High-level summary: People are underestimating the impact of getting a good night sleep and are harming their physical and mental health in doing so.
 
-1. The average American adult reports about two nights of insufficient sleep per week.
-2. Many age groups are sleep-deprived.
-3. Sleep deprivation increases the risk of chronic diseases such as high blood pressure, diabetes, heart attack, heart failure, and stroke.
-4. Sleep deprivation can also hinder you from thinking clearly and increase the odds of mental distress.
-5. A vicious cycle of mental distress and sleepless nights exists. 
-6. But what about excessive sleeping? That's also not healthy.
-8. (So how do I) Sleep just right! 
+1. The average American adult reports about two nights of insufficient sleep per week (many age groups are sleep-deprived).
+2. Sleep deprivation increases the risk of chronic diseases such as high blood pressure, diabetes, heart attack, heart failure, and stroke.
+3. Sleep deprivation can also hinder you from thinking clearly and increase the odds of mental distress.
+4. A vicious cycle of mental distress and sleepless nights exists. 
+5. But what about excessive sleeping? That's also not healthy.
+6. (So how do I) Sleep just right! 
 
 ## Initial Sketches
 
