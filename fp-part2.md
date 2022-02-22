@@ -46,6 +46,10 @@ After looking at the overarching theme and the flow of the information as a whol
 
 ## Finalized wireframe/storyboard
 
+<p align="center">
+  <img src="Images/vis-all.png">
+</p>
+
 ## User research and interviews
 
 ## Final thoughts and upcoming changes
