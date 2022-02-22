@@ -68,7 +68,45 @@ For my research, I decided to ask the following questions:
 - Do you think the storyline is persuasive enough to inspire action in the intended audience? 
 - Is there any additional information you would like to know
 
+Here are the responses from my interviewees.
 
+For the first question, A and B's answers are pretty similar. A commented that the storyline is "pretty cohesive in that the introduction is laid down, followed by the problems and solutions at the end", while B commented that the information is straightforward. However, A also mentioned that having different age groups in the second visualization "threw [them] off" as they were not expecting to see that information. It made them question "why do I have to see this" and "why is this relevant to me". In addition to just the storyline, B and C both critiqued some visualizations. C commented that the clock is very creative but also noted that 12 and 9 are in split colors. They wondered if there is something that can be done to prevent that from happening or if another visualization would convey the same point. B said that they liked the use of pictures since pictures are better at expressing information than words. They also mentioned how they strongly disliked the treemap because it is hard to interpret. 
+
+For the second question, all responses are pretty unanimous but with varying detail. C said that the story emphasizes that people don't get enough sleep and encourages people to sleep more. "If you don't get enough sleep, there are bad consequences." This is what B said: "A lot of people don’t get enough sleep, especially those between 10-39. Not getting enough sleep is not great because you have a higher chance of getting different chronic diseases. It also affects memory, mental health, and makes your organs tired. It also negatively impacts your daily routine such as mood, focusing, eating, going out, etc. The sufficient amount of sleep we should get per night is 7-9. More than 9 is excessive, and less than 7 is deficient. You should do common things to relax."
+
+For the third, fourth, fifth, and sixth question, the answers are quite similar so it seems that the purpose, the audience, and the overall text of the storyline is obvious. Interviewee A pointed out that the strongest point is "sleep deficit is a serious and real problem" and added the second point that "people can do better" in terms of developing better habits. Interviewee B pointed out that the audience is "most likely in the 10-39 age range because that’s the age group that is more likely to be sleep-deprived and are at risk of poor health." All seem to agree that the storyline flows nicely and that the texts support their respective content. 
+
+There were some confusion and thoughts on the speedometer. Some commented that it is hard to read and that it is difficult to see the seriousness of it. A mentioned that the differences in the distance don't do much since there is no scale. B agreed that including a scale would be nice to have. C also noted that speedometers and treemaps are not your typical visualizations, and that "if someone has never seen these visualizations before, they might make assumptions and get inaccurate information." 
+
+I tried to get each interviewee to brainstorm as many adjustments to the current visualizations as they can by bouncing ideas back and forth. Below are some of the recommendations they suggested:
+
+Vis 1
+- A, B, and C commented that it was straightforward.
+
+Vis 2
+- B and C commented that it was straightforward.
+- A commented that there might be a better type of chart to demonstrate this information. She showed me an earnings chart which shows the actual and estimate of each respective year. Instead of a bar chart, this is just a dot to record each point in time. 
+
+Vis 3
+- As previously mentioned, many of them thought that it was difficult to understand the graph, specifically what the unit of the arrows indicates. 
+- A and B commented that including a unit or scale would help improve understanding.
+- B commented that it might be better to use green and red for the arrows instead of black and red to maintain consistency with the former graphs.
+- C commented that "the third one gave me so much trouble. It looks like a clock, but I'm not sure what it is"
+
+Vis 4
+- A, B, and C thought that using the body with anatomy labels was creative.
+- B suggested that the organization can be improved by using angled lines to structure where the texts go. 
+
+Vis 5
+- A, B, and C did not like the treemap. 
+- A said that "as a person studying computer science, seeing this graph makes me think that it adds up to 100%." It also took them time before she understood what the graph meant. Hence, she suggested that using a bar chart might be simpler to explain the information.
+- B said that they usually do not interact with treemaps a lot. While it does make sense to represent the data like so, they also believe that a pie chart could have done the same, in which the audience could see the proportions better. Another note they had was there was little to no description. For instance, it shows "mood", but "what does that mean?" So the audience has to think about it themselves that "mood is impacting them negatively."
+
+Vis 6
+- A, B, and C all appreciate the clock visualization and thought that the concept is intriguing. 
+
+Vis 7
+- A, B, and C all like the concept of the word cloud. However, A considered an alternative of using a bubble graph since "bubble graph shows consideration of all these options, whereas the words seem to imply one thing."
 
 ## Final thoughts and upcoming changes
 
