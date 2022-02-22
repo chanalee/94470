@@ -64,7 +64,6 @@ For my research, I decided to ask the following questions:
 - Does the storyline flow smoothly? 
 - What is confusing about this?
 - What would you change?
-- What is your main takeaway
 - Do you think the storyline is persuasive enough to inspire action in the intended audience? 
 - Is there any additional information you would like to know
 
@@ -108,6 +107,8 @@ Vis 6
 
 Vis 7
 - A, B, and C all like the concept of the word cloud. However, A considered an alternative of using a bubble graph since "bubble graph shows consideration of all these options, whereas the words seem to imply one thing."
+
+For the last two questions, everyone seemed to be on the same page. They all thought that the call to action exists, specifically that people should sleep more (but not too much) and be more mindful of their sleeping habits since there are lasting consequences. Additionally, there is no further information they require to complete the story.
 
 ## Final thoughts and upcoming changes
 
