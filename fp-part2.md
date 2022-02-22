@@ -52,5 +52,23 @@ After looking at the overarching theme and the flow of the information as a whol
 
 ## User research and interviews
 
+In order for me to leran more about my audience, conducting a user research is a great way for me to get their feedback. For this assignment, I interviewed 3 people. For the sake of anonymity, I will refer to them as A, B, and C. A, B, and C are currently college students at Carnegie Mellon University. They are 22, 21, and 21 years old respectively. 
+
+For my research, I decided to ask the following questions:
+
+- What are your first impressions?
+- Can you describe to me what the storyline is telling you?
+- What do you think the purpose of this is?
+- Who do you think this is for?
+- Does the content support its title?
+- Does the storyline flow smoothly? 
+- What is confusing about this?
+- What would you change?
+- What is your main takeaway
+- Do you think the storyline is persuasive enough to inspire action in the intended audience? 
+- Is there any additional information you would like to know
+
+
+
 ## Final thoughts and upcoming changes
 
