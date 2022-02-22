@@ -86,6 +86,7 @@ Vis 1
 Vis 2
 - B and C commented that it was straightforward.
 - A commented that there might be a better type of chart to demonstrate this information. She showed me an earnings chart which shows the actual and estimate of each respective year. Instead of a bar chart, this is just a dot to record each point in time. 
+- A and B commented that using the green and red to indicate good and bad was a good design decision.
 
 Vis 3
 - As previously mentioned, many of them thought that it was difficult to understand the graph, specifically what the unit of the arrows indicates. 
@@ -109,4 +110,16 @@ Vis 7
 - A, B, and C all like the concept of the word cloud. However, A considered an alternative of using a bubble graph since "bubble graph shows consideration of all these options, whereas the words seem to imply one thing."
 
 ## Final thoughts and upcoming changes
+
+Based on the critiques, I am pretty confident about visualizations 1, 4, and 7.
+
+For visualization 2, I will take the advice that A provided and use a chart similar to that. I will still keep the colors to help attract more attention to the age groups who are sleep-deprived. 
+
+For visualization 3, I will add scales to the graph. I will try out the idea that B suggested, which is to use a green arrow for the group with more than 7 hours of sleep. After trying it out, I will determine if the colors seem to clash and decide from that.
+
+I am currently undecided about how I will present the information for visualization 5. However, I am certain that I will not be using a treemap. My current backup is to use a bar chart similar to the one provided in the high-fidelity wireframe section. 
+
+Based on the comments, 6 is also a solid visualization. However, I am thinking of changing it to be more of a continuous line as supposed to discrete pie slices. Hence, I will continue using the clock idea and have a line to represent deficient sleep, sufficient sleep, and excessive sleep around the clock to provide the continuous range. 
+
+Another comment I thought that was helpful is being careful of the transition from talking about physical health to mental health, as well as the transition from risks of diseases to excessive sleeping. One thing that A recommended is that I add a slide specifically to present the transition so that customers do not feel that there is a huge jump between topics. 
 
