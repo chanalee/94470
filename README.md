@@ -31,13 +31,6 @@ Here, I included some work from the class, including relevant data visualization
 
 [Assignment 3 & 4: Critique by Design](/data-vis-3.md)
 
-## Sketches
-
-[Crafting for Clarity](/crafting-for-clarity.md)
-
-[Choosing Chart Types](/choosing-chart-types.md)
-
-[Practicing Persuasion](/practicing-persuasion.md)
 
 ## Final Project
 
