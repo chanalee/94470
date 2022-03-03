@@ -14,6 +14,8 @@ However, after learning more on the topic, I decided to focus on people who are 
 
 ### Design Decisions 
 
+#### Visualizations
+
 While I kept most of my storyline the same, I made a few adjustments on the type and the way I am displaying the information. I added a couple new graphs to enhance my story, as well as reformat my previous graphs. 
 
 For example, I changed the way that chronic diseases' risks were displayed. Instead of using a spedometer, I combined a bar chart with some graphics to demonstrate the difference of risk for sufficient versus insufficient sleep.
@@ -44,13 +46,21 @@ From this graph, I started thinking about how I could demonstrate my data differ
   <img src="Images/impact.png" width = "600">
 </p>
 
+#### Storyboard
+
 In terms of the way that the story is told, I took the advice that my interviewees told me to include more transitional materials and emphasized headlines. I did that by using features on shorthand like images to divide the sections or just a different background color for emphasis. 
 
 I also played around with the typography and color of the text in order to enhance certain information!
 
+Other design decisions include the choice of photos used in the presentation. I tried to maintain the same tone and theme throughout so that the board would look coherent. 
+
 ### Progress and Learning Points
 
-
+- Be creative when coming up with ideas (do not restrict yourself and explore options)
+- Test out your solutions. While it might be a creative idea and it is natural for you, it does not mean that it is intuitive for others
+- Refine, refine, refine! The best prototype often comes from designing and reiterating
+- Be flexible with the sources you have. While it is good to know which direction you're heading, sometimes it's impossible until you implement it. So being able to reposition once things go wrong would be really beneficial
+- Consider your audience! Similar to the second point, different audience prefers different ways of communicating so be considerate of that
 
 ### Updated Data Sources
 
