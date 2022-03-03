@@ -8,7 +8,17 @@
 
 ### Intended Audience
 
+With sleep applying to people of all ages, gender, and nationality, my audience includes everybody. Initially, my data story was aimed to target people who are in college. As a college student myself, I am aware of the unhealthy decisions that we make and would like to inform other students to develop healthy habits instead. By promoting good hygiene, people will be able to mitigate certain risks that come with sleep deprivation.
+
+However, after learning more on the topic, I decided to focus on people who are aged 18 - 29 because this group of people is the one that has the least amount of sleep among adults and is the most prone to different disorders as a result of their actions. I also realized that sleep deprivation is more common than I thought. Hence, rather than just focusing on a small group, I could reach a broader audience in which in this case there is a one size fits all solution. Throughout the final story, I specifically highlighted this group as well as 30 - 49 to show that they are way below average.
+
 ### Design Decisions 
+
+
+
+### Progress and Learning Points
+
+
 
 ### Updated Data Sources
 
