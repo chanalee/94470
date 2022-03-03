@@ -22,11 +22,13 @@ However, after learning more on the topic, I decided to focus on people who are 
 
 ### Updated Data Sources
 
-[Source](https://www.sleepfoundation.org/wp-content/uploads/2020/03/SIA-2020-Q1-Report.pdf)
+My first data source is located [here](https://www.cdc.gov/sleep/data_statistics.html). This dataset will be used to show how the risks of not getting sufficient sleep.
 
-[Source](https://www.cdc.gov/sleep/data_statistics.html)
+My second data source is located [here](https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx). It is a dataset on how long each age group sleeps. It also compares sleep across different time periods.
 
-[Source](https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx)
+My third data source is located [here](https://www.sleepfoundation.org/how-sleep-works/sleep-facts-statistics). The primary purpose of this source is to highlight certain information and create emphasized visualizations to make a statement. Unlike the previous two sources, this source is primarily an aggregation of different stastical sources and reported into one to create an article on sleep statistics. I know that I will definitely be able to learn more about sleeping patterns to help shape my narrative better. 
+
+My fourth data source is located [here](https://www.sleepfoundation.org/wp-content/uploads/2020/03/SIA-2020-Q1-Report.pdf). This article contains information on how sleep deprivation affects daily activities. This is related to how sleep deprivation affects mental health and can be used to support how sleep deprivation leads to an unproductive lifestyle. Additionally, this [page](https://www.sleepfoundation.org/professionals/sleep-america-polls) contains polls from previous years that I can learn about. There is also information on the comparison of sleep schedules for weekdays versus weekends, statistics of how many percent of people felt well-rested, and more!
 
 
 ### Other References
