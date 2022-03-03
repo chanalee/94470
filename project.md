@@ -161,8 +161,6 @@ Another comment I thought that was helpful is being careful of the transition fr
 
 # Final Project Part 3
 
-[Data Story](https://carnegiemellon.shorthandstories.com/sleep/index.html)
-
 ### Intended Audience
 
 With sleep applying to people of all ages, gender, and nationality, my audience includes everybody. Initially, my data story was aimed to target people who are in college. As a college student myself, I am aware of the unhealthy decisions that we make and would like to inform other students to develop healthy habits instead. By promoting good hygiene, people will be able to mitigate certain risks that come with sleep deprivation.
