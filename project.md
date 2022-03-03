@@ -23,7 +23,9 @@ However, after learning more on the topic, I decided to focus on people who are 
 ### Updated Data Sources
 
 [Source](https://www.sleepfoundation.org/wp-content/uploads/2020/03/SIA-2020-Q1-Report.pdf)
+
 [Source](https://www.cdc.gov/sleep/data_statistics.html)
+
 [Source](https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx)
 
 
