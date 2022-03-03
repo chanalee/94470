@@ -16,27 +16,27 @@ However, after learning more on the topic, I decided to focus on people who are 
 
 #### Visualizations
 
-While I kept most of my storyline the same, I made a few adjustments on the type and the way I am displaying the information. I added a couple new graphs to enhance my story, as well as reformat my previous graphs. 
+While I kept most of my storyline the same, I made a few adjustments to the type and the way I am displaying the information. I added a couple of new graphs to enhance my story, as well as reformat my previous graphs. 
 
-For example, I changed the way that chronic diseases' risks were displayed. Instead of using a spedometer, I combined a bar chart with some graphics to demonstrate the difference of risk for sufficient versus insufficient sleep.
+For example, I changed the way that chronic diseases' risks were displayed. Instead of using a speedometer, I combined a bar chart with some graphics to demonstrate the difference of risk for sufficient versus insufficient sleep.
 
 <p align="center">
   <img src="Images/risk.jpg" width = "600">
 </p>
 
-I also played around with the design of the recommended hours of sleep. Personally, I prefer the second one on the top row because I like how modern the design looked. However, I went back and ask my interviewees to see what they thought of the graphic. They commented that while it is more aesthetically pleasing, the one on the bottom left does a better job since the information is grouped more closely. This means that you can see everything altogether, which means less time to process. 
+I also played around with the design of the recommended hours of sleep. I prefer the second one on the top row because I like how modern the design looked. However, I went back and ask my interviewees to see what they thought of the graphic. They commented that while it is more aesthetically pleasing, the one on the bottom left does a better job since the information is grouped more closely. This means that you can see everything all together, which means less time to process. 
 
 <p align="center">
   <img src="Images/circle.jpg" width = "600">
 </p>
 
-I played around with different ideas that I did not end up using. For example, the graph below shows similar information to my final graph. However, instead of including just the responses with "yes", I included but "yes" and "no" to make a stacked chart. After further consideration, I felt that this was unncessary and that a simple bar graph would do.
+I played around with different ideas that I did not end up using. For example, the graph below shows similar information to my final graph. However, instead of including just the responses with "yes", I included "yes" and "no" to make a stacked chart. After further consideration, I felt that this was unnecessary and that a simple bar graph would do.
 
 <p align="center">
   <img src="Images/more-sleep.png" width = "600">
 </p>
 
-From this graph, I started thinking about how I could demonstrate my data differently. I decided to explore different ways to visualize the data and group information differently. After multiple iterations, I changed a simple comparative bar graph to these graphs. The reason that I did not want to use a line chart for these graphs is because line graphs are usually associated with continuity of the x-axis. Therefore, even though it might be a bit easier to read, I thought that it was unsuitable because people might also get confused by it. 
+From this graph, I started thinking about how I could demonstrate my data differently. I decided to explore different ways to visualize the data and group information differently. After multiple iterations, I changed a simple comparative bar graph to these graphs. The reason that I did not want to use a line chart for these graphs is that line graphs are usually associated with the continuity of the x-axis. Therefore, even though it might be a bit easier to read, I thought that it was unsuitable because people might also get confused by it. 
 
 <p align="center">
   <img src="Images/1942.png" width = "600">
@@ -48,9 +48,9 @@ From this graph, I started thinking about how I could demonstrate my data differ
 
 #### Storyboard
 
-In terms of the way that the story is told, I took the advice that my interviewees told me to include more transitional materials and emphasized headlines. I did that by using features on shorthand like images to divide the sections or just a different background color for emphasis. 
+In terms of the way that the story is told, I took the advice that my interviewees told me to include more transitional materials and emphasized headlines. I did that by using features on shorthand like images to divide the sections or just different background colors for emphasis. 
 
-I also played around with the typography and color of the text in order to enhance certain information!
+I also played around with the typography and color of the text to enhance certain information!
 
 Other design decisions include the choice of photos used in the presentation. I tried to maintain the same tone and theme throughout so that the board would look coherent. 
 
@@ -59,7 +59,7 @@ Other design decisions include the choice of photos used in the presentation. I 
 - Be creative when coming up with ideas (do not restrict yourself and explore options)
 - Test out your solutions. While it might be a creative idea and it is natural for you, it does not mean that it is intuitive for others
 - Refine, refine, refine! The best prototype often comes from designing and reiterating
-- Be flexible with the sources you have. While it is good to know which direction you're heading, sometimes it's impossible until you implement it. So being able to reposition once things go wrong would be really beneficial
+- Be flexible with the sources you have. While it is good to know which direction you're heading, sometimes it's impossible until you implement it. So being able to reposition once things go wrong would be beneficial
 - Consider your audience! Similar to the second point, different audience prefers different ways of communicating so be considerate of that
 
 ### Updated Data Sources
