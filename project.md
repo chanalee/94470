@@ -22,9 +22,9 @@ However, after learning more on the topic, I decided to focus on people who are 
 
 ### Updated Data Sources
 
-- “Americans Feel Sleepy 3 Days a Week, with Impacts on ...” Sleep Foundation, 2020, https://www.sleepfoundation.org/wp-content/uploads/2020/03/SIA-2020-Q1-Report.pdf.
-- “CDC - Data and Statistics - Sleep and Sleep Disorders.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2 May 2017, https://www.cdc.gov/sleep/data_statistics.html.
-- Jones, Jeffrey M. “In U.S., 40% Get Less than Recommended Amount of Sleep.” Gallup.com, Gallup, 4 June 2021, https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx.
+[Source](https://www.sleepfoundation.org/wp-content/uploads/2020/03/SIA-2020-Q1-Report.pdf)
+[Source](https://www.cdc.gov/sleep/data_statistics.html)
+[Source](https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx)
 
 
 ### Other References
