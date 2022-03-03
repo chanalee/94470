@@ -209,7 +209,7 @@ I also played around with the typography and color of the text to enhance certai
 
 Other design decisions include the choice of photos used in the presentation. I tried to maintain the same tone and theme throughout so that the board would look coherent. 
 
-#### Final Data Story
+### Final Data Story
 
 [Data Story](https://carnegiemellon.shorthandstories.com/sleep/index.html)
 
