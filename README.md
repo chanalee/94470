@@ -38,7 +38,7 @@ Here, I included some work from the class, including relevant data visualization
 
 [Part Two](/fp-part2.md)
 
-[Part Three](/fp-part3.md)
+[Part Three](/project.md)
 
 
 # Thank you! 
