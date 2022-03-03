@@ -14,6 +14,37 @@ However, after learning more on the topic, I decided to focus on people who are 
 
 ### Design Decisions 
 
+While I kept most of my storyline the same, I made a few adjustments on the type and the way I am displaying the information. I added a couple new graphs to enhance my story, as well as reformat my previous graphs. 
+
+For example, I changed the way that chronic diseases' risks were displayed. Instead of using a spedometer, I combined a bar chart with some graphics to demonstrate the difference of risk for sufficient versus insufficient sleep.
+
+<p align="center">
+  <img src="Images/risk.jpg" width = "500">
+</p>
+
+I also played around with the design of the recommended hours of sleep. Personally, I prefer the second one on the top row because I like how modern the design looked. However, I went back and ask my interviewees to see what they thought of the graphic. They commented that while it is more aesthetically pleasing, the one on the bottom left does a better job since the information is grouped more closely. This means that you can see everything altogether, which means less time to process. 
+
+<p align="center">
+  <img src="Images/circle.jpg" width = "500">
+</p>
+
+I played around with different ideas that I did not end up using. For example, the graph below shows similar information to my final graph. However, instead of including just the responses with "yes", I included but "yes" and "no" to make a stacked chart. After further consideration, I felt that this was unncessary and that a simple bar graph would do.
+
+<p align="center">
+  <img src="Images/more-sleep.png" width = "600">
+</p>
+
+From this graph, I started thinking about how I could demonstrate my data differently. I decided to explore different ways to visualize the data and group information differently. After multiple iterations, I changed a simple comparative bar graph to these graphs. The reason that I did not want to use a line chart for these graphs is because line graphs are usually associated with continuity of the x-axis. Therefore, even though it might be a bit easier to read, I thought that it was unsuitable because people might also get confused by it. 
+
+<p align="center">
+  <img src="Images/1942.png" width = "600">
+</p>
+
+<p align="center">
+  <img src="Images/impact.png" width = "600">
+</p>
+
+
 
 
 ### Progress and Learning Points
