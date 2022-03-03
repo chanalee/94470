@@ -19,13 +19,13 @@ While I kept most of my storyline the same, I made a few adjustments on the type
 For example, I changed the way that chronic diseases' risks were displayed. Instead of using a spedometer, I combined a bar chart with some graphics to demonstrate the difference of risk for sufficient versus insufficient sleep.
 
 <p align="center">
-  <img src="Images/risk.jpg" width = "500">
+  <img src="Images/risk.jpg" width = "600">
 </p>
 
 I also played around with the design of the recommended hours of sleep. Personally, I prefer the second one on the top row because I like how modern the design looked. However, I went back and ask my interviewees to see what they thought of the graphic. They commented that while it is more aesthetically pleasing, the one on the bottom left does a better job since the information is grouped more closely. This means that you can see everything altogether, which means less time to process. 
 
 <p align="center">
-  <img src="Images/circle.jpg" width = "500">
+  <img src="Images/circle.jpg" width = "600">
 </p>
 
 I played around with different ideas that I did not end up using. For example, the graph below shows similar information to my final graph. However, instead of including just the responses with "yes", I included but "yes" and "no" to make a stacked chart. After further consideration, I felt that this was unncessary and that a simple bar graph would do.
@@ -44,8 +44,9 @@ From this graph, I started thinking about how I could demonstrate my data differ
   <img src="Images/impact.png" width = "600">
 </p>
 
+In terms of the way that the story is told, I took the advice that my interviewees told me to include more transitional materials and emphasized headlines. I did that by using features on shorthand like images to divide the sections or just a different background color for emphasis. 
 
-
+I also played around with the typography and color of the text in order to enhance certain information!
 
 ### Progress and Learning Points
 
